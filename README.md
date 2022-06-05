@@ -1,4 +1,4 @@
-# personal-resume
+# Personal Resume
 A LaTeX Markup resume.
 
 Pages used as reference:
